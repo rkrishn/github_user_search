@@ -4,6 +4,8 @@
 
 npm install and npm start
 
+https://rkrishn.github.io/github_user_search/.
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
