@@ -1,5 +1,7 @@
 # Github User search Demo using React
 
+[Demo](https://rkrishn.github.io/github_user_search)
+
 # Run the application using
 
 npm install and npm start
